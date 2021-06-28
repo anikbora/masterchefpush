@@ -1,0 +1,4 @@
+Chili
+Apples
+Salt
+Vinegar
